@@ -1,0 +1,58 @@
+body {
+
+background:	#B0C4DE;
+
+}
+header {
+background:#757171;
+display: flex;
+line-height: 3;
+
+
+}
+header .hotel{
+position: relative;
+left: 20%;
+}
+header .logo{
+    position: relative;
+    top:50px;
+    left: 100px;
+}
+nav{
+    position: relative;
+    background: green;
+    top:-15px;
+  
+}
+nav ul li {
+     display: inline-block;
+     position: relative;
+     left: 20%;
+}
+nav ul li a{
+
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    
+    
+}
+
+section .medio {
+    position: relative;
+    left: 20%;
+}
+article{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 5%;
+}
+article .junto{
+    position: relative;
+    display:inline-block;
+}
+article .comodo{
+    position: relative;
+    left: 30%;
+}
