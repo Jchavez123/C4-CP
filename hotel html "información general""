@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>infogenera</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css"
+    href="./css/app.css">
+
+</head>
+<body>
+    <header>
+   
+        <div class="logo"> <img src="./images/1.jpg" width="100" height="100"> </div>
+        
+        <div class="hotel"><h1>HOTEL EMPERADOR</h1><P>JR.huancas s/n</P></div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Informacion General </a></li>
+            <li><a href="#">Fotos</a></li>
+            <li><a href="#">Habitaciones </a></li>
+            <li><a href="#">Oferta </a></li>
+        </ul>
+    </nav>
+    <section>
+        <div class="medio"><img src="./images/5.PNG"> </div>
+
+        <div ><img src="./images/6.jpg " width="100%" height="450"></div>
+    </section>  
+
+    <article>
+        <p>PASE UNA ESTADÍA EN NUESTRO<br>HOTEL EN HUANCAYO,JUNIN,PERÚ</p>
+        <p>
+            Regálese una célebre experiencia hotelera en el “Hotel Emperador” situado frente <br>
+            ########3,ofrece una bicacion privilegeada<br>
+            cerca de#####################.</p>
+
+ <div class="junto"><p>contacte con nostros:</p></div>
+
+
+   <div class="junto"> 
+    <img src="./images/f.png" width="50" height="50">
+    <img src="./images/i.jpg" width="50" height="50">
+    <img src="./images/tw.png" width="50" height="50">
+    </div>
+
+    <p class="comodo"> TU COMODIDAD ES CLAVE</p>
+    <img src="./images/wifi.jpg">
+
+    </article>
+    
+</body>
+</html>
